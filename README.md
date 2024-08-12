@@ -11,9 +11,9 @@ Data descriptions are as below.
 TSB-UAD includes the following datasets:
 
 
-<img width="413" alt="image" src="https://github.com/user-attachments/assets/8e23ba7e-2967-4692-9c45-030c9b9e65b8">
+# <img width="1000" alt="image" src="https://github.com/user-attachments/assets/8e23ba7e-2967-4692-9c45-030c9b9e65b8">
 
 Details are : 
 
 
-<img width="559" alt="image" src="https://github.com/user-attachments/assets/97edcf11-0973-4294-8128-7ac6099284f9">
+# <img width="1000" alt="image" src="https://github.com/user-attachments/assets/97edcf11-0973-4294-8128-7ac6099284f9">
