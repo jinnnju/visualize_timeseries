@@ -31,12 +31,12 @@ def visualize_data(directory, filename):
 def visualize_all_files(directory):
     files = [f for f in os.listdir(directory) if f.endswith('.out')]
 
-    # 정규 표현식을 사용하여 파일명에서 숫자 부분만 추출
+    
     def extract_number(filename):
         match = re.search(r'\d+', filename)
-        return int(match.group()) if match else float('inf')  # 숫자가 없는 경우는 리스트의 끝에 위치하도록 함
+        return int(match.group()) if match else float('inf') 
 
-    files.sort(key=extract_number)  # 숫자 기준으로 정렬
+    files.sort(key=extract_number) 
 
     for file in files:
         visualize_data(directory, file)
